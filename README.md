@@ -1,4 +1,4 @@
-![Login](https://github.com/user-attachments/assets/6ea6fb5d-c647-430b-8b6f-e913602ea0e3)🌿 AgriShop – E-Commerce Platform for Farmers
+🌿 AgriShop – E-Commerce Platform for Farmers
 
 📌 About AgriShop
 
@@ -25,7 +25,7 @@ Backend: Python (Django/Flask), SQLite3
 
 🔑 Login Page
 
-
+![Login](https://github.com/user-attachments/assets/6ea6fb5d-c647-430b-8b6f-e913602ea0e3)
 
 🛍️ Product Listings
 
