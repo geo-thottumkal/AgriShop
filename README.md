@@ -21,6 +21,7 @@ Backend: Python (Django/Flask), SQLite3
 
 🌱 Home Page (Index)
 
+![AgriConnect](https://github.com/user-attachments/assets/93d1efc4-9b81-4558-8572-d571de6f7281)
 
 
 🔑 Login Page
@@ -29,6 +30,7 @@ Backend: Python (Django/Flask), SQLite3
 
 🛍️ Product Listings
 
+![Items](https://github.com/user-attachments/assets/8ccbf36f-0b35-4154-8874-1b4424e7ed4c)
 
 🎉 Contributions & feedback are welcome! Feel free to fork, raise issues, or submit pull requests. 🚀
 
