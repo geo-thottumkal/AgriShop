@@ -1,4 +1,4 @@
-🌿 AgriShop – E-Commerce Platform for Farmers
+# 🌿 **AgriShop – E-Commerce Platform for Farmers**  
 
 📌 About AgriShop
 
