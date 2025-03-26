@@ -1,4 +1,4 @@
-# 🌿 **AgriShop – E-Commerce Platform for Farmers**  
+ <h1 align="center">🌿 AgriShop – E-Commerce Platform for Farmers</h1>
 
 📌 About AgriShop
 
